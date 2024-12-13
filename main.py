@@ -14,7 +14,7 @@ import time
 # Configuration and Setup
 # -------------------------------------------------------------------
 
-os.environ['GROQ_API_KEY'] = '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'
+os.environ['GROQ_API_KEY'] = 'add_api_key_here'
 
 # Verify that the GROQ_API_KEY is set; if not, display an error and stop the application.
 if 'GROQ_API_KEY' not in os.environ or not os.environ['GROQ_API_KEY']:
