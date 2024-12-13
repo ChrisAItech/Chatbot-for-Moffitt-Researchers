@@ -53,10 +53,8 @@ pip install pymongo groq streamlit pandas
    Execute the Streamlit application using the following command:
 
    ```bash
-   streamlit run path_report_viewer.py
+   streamlit run main.py
    ```
-
-   Replace `path_report_viewer.py` with the name of your Python script if different.
 
 3. **Access the Viewer:**
 
