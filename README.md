@@ -1,4 +1,6 @@
-# Moffitt Path Report Viewer
+# Local LLM for Cancer Registry - Chatbot for Moffitt Researchers, Clinicians, and Registrars
+
+This GitHub repository contains the **winning first-place solution** for the proof-of-concept model in the competition.
 
 ## Overview
 
@@ -88,3 +90,4 @@ Contributions are welcome! If you have suggestions, improvements, or bug fixes, 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
